@@ -21,7 +21,7 @@ No arquivo ProdutosTest.Java clique no ícone Run Test ou pressione Ctrl + Shift
 ### 🔩 Analise os testes 
 
 Utilizando a técnica de valores limites, foram realizados testes para validar a regra de negócio:
- "O valor dos produtos da loja são sempre maiores que xero e nunca devem ultrapassar R$7.000,00".
+ "O valor dos produtos da loja são sempre maiores que zero e nunca devem ultrapassar R$7.000,00".
 
 ### 🛠️ Construído com
 
